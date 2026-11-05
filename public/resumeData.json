@@ -14,10 +14,77 @@
             "city":"Tangerang Selatan",
             "state":"Banten",
             "zip": "15412"   
-    },
+        },
         "website": "https://github.com/kevinsianturii",
         "resumedownload":"https://drive.google.com/file/d/1UpAJ6IyxXzV9Puf1oe8SEHQdIP1uWS5H/view?usp=sharing"
        
-}
+    },
+    "resume" : {
+        "skillmessage": "Lulusan D3 Rekayasa Perangkat Lunak Aplikasi dari Universitas Telkom dengan fokus keahlian pada Web Development. Memiliki pengalaman praktis mengembangkan aplikasi manajemen dan penilaian menggunakan Laravel Framework, PHP, serta integrasi Microsoft OAuth. Terampil merancang antarmuka responsif dengan Tailwind CSS dan JavaScript.",
+        "education" : [
+            {
+                "school": "Universitas Telkom",
+                "degree": "D3 Rekayasa Perangkat Lunak Aplikasi (IPK: 3,52)",
+                "graduated": "September 2022 - Agustus 2025",
+                "description" : "Fokus pada pengembangan perangkat lunak web."
+            },
+            {
+                "school": "SMA Methodist 8 Medan",
+                "degree": "Ilmu Pengetahuan Alam (IPA)",
+                "graduated": "Juni 2018 - Juni 2021",
+                "description": "Fokus pada ilmu eksakta dan sains dasar."
+            }
+        ],
+        "work": [
+            {
+                "company" : "KK AITM, Fakultas Ilmu Terapan - Universitas Telkom",
+                "title" : "Web Developer Intern",
+                "years": "Mei 2025 - September 2025",
+                "description": "Membangun aplikasi QRScan Eprt dan Aplikasi Penilaian Praktikum MobPro menggunakan Laravel dan integrasi otentikasi Microsoft SSO (OAuth/Graph API)."
+            }, 
+            {
+                "company": "Project: StockWise",
+                "title": "Full-stack Developer",
+                "years": "Project",
+                "description": "Mengembangkan UMKM Inventory Management System dengan Laravel 10 dan MySQL, termasuk arsitektur RBAC dan Automated Testing menggunakan PHPUnit."
+            },
+            {
+                "company": "Project: Fortune",
+                "title": "Frontend Developer",
+                "years": "Project",
+                "description": "Merancang antarmuka dashboard keuangan menggunakan Tailwind CSS dengan logika JavaScript untuk kalkulasi saldo otomatis."
+            }
+        ],
+        "skills": [
+            {
+                "name" : "PHP & Laravel",
+                "level": "90%"
+            },
+            {
+                "name": "HTML & CSS (Tailwind)",
+                "level": "90%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "85%"
+            },
+            {
+                "name": "MySQL",
+                "level": "85%"
+            },
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "React JS",
+                "level": "60%"
+            },
+            {
+                "name": "Git & GitHub",
+                "level": "80%"
+            }
+        ]
+    }
 
 }

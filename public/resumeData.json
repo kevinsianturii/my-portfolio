@@ -16,9 +16,26 @@
       "zip": "15412"
     },
     "website": "https://github.com/kevinsianturii",
-    "resumedownload": "https://drive.google.com/file/d/1UpAJ6IyxXzV9Puf1oe8SEHQdIP1uWS5H/view?usp=sharing"
-  },
-  "resume": {
+    "resumedownload": "https://drive.google.com/file/d/1UpAJ6IyxXzV9Puf1oe8SEHQdIP1uWS5H/view?usp=sharing",
+    "social": [
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/kevin-sianturi/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/kevinsianturii",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "Instagram",
+                "url": "https://www.instagram.com/kev_vynn/",
+                "className": "fa fa-instagram"
+            }
+        ]
+    },
+    "resume": {
     "skillmessage": "Lulusan D3 Rekayasa Perangkat Lunak Aplikasi dari Universitas Telkom dengan fokus keahlian pada Web Development. Memiliki pengalaman praktis mengembangkan aplikasi manajemen dan penilaian menggunakan Laravel Framework, PHP, serta integrasi Microsoft OAuth. Terampil merancang antarmuka responsif dengan Tailwind CSS dan JavaScript.",
     "education": [
       {

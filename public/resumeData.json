@@ -1,90 +1,164 @@
 {
-    "main": {
-        "name": "Kevin Sianturi",
-        "description": "I am a Web Developer",
-        "image": "profilepic.png",
-        "github": "https://github.com/kevinsianturii",
-        "project": "https://github.com/kevinsianturii",
-        "bio": "Ini adalah section biografi aku",
-        "contactmessage":"Hello, here I am",
-        "email": "kevinsianturi87@gmail.com",
-        "phone": "0823-8745-8744",
-        "address":{
-            "street":"Komplek Mabad, Jl. Pasopati S-285, No. 65, RT.03/RW.11",
-            "city":"Tangerang Selatan",
-            "state":"Banten",
-            "zip": "15412"   
-        },
-        "website": "https://github.com/kevinsianturii",
-        "resumedownload":"https://drive.google.com/file/d/1UpAJ6IyxXzV9Puf1oe8SEHQdIP1uWS5H/view?usp=sharing"
-       
+  "main": {
+    "name": "Kevin Sianturi",
+    "description": "I am a Web Developer",
+    "image": "profilepic.png",
+    "github": "https://github.com/kevinsianturii",
+    "project": "https://github.com/kevinsianturii",
+    "bio": "Ini adalah section biografi aku",
+    "contactmessage": "Hello, here I am",
+    "email": "kevinsianturi87@gmail.com",
+    "phone": "0823-8745-8744",
+    "address": {
+      "street": "Komplek Mabad, Jl. Pasopati S-285, No. 65, RT.03/RW.11",
+      "city": "Tangerang Selatan",
+      "state": "Banten",
+      "zip": "15412"
     },
-    "resume" : {
-        "skillmessage": "Lulusan D3 Rekayasa Perangkat Lunak Aplikasi dari Universitas Telkom dengan fokus keahlian pada Web Development. Memiliki pengalaman praktis mengembangkan aplikasi manajemen dan penilaian menggunakan Laravel Framework, PHP, serta integrasi Microsoft OAuth. Terampil merancang antarmuka responsif dengan Tailwind CSS dan JavaScript.",
-        "education" : [
+    "website": "https://github.com/kevinsianturii",
+    "resumedownload": "https://drive.google.com/file/d/1UpAJ6IyxXzV9Puf1oe8SEHQdIP1uWS5H/view?usp=sharing"
+  },
+  "resume": {
+    "skillmessage": "Lulusan D3 Rekayasa Perangkat Lunak Aplikasi dari Universitas Telkom dengan fokus keahlian pada Web Development. Memiliki pengalaman praktis mengembangkan aplikasi manajemen dan penilaian menggunakan Laravel Framework, PHP, serta integrasi Microsoft OAuth. Terampil merancang antarmuka responsif dengan Tailwind CSS dan JavaScript.",
+    "education": [
+      {
+        "school": "Universitas Telkom",
+        "degree": "D3 Rekayasa Perangkat Lunak Aplikasi (IPK: 3,52)",
+        "graduated": "September 2022 - Agustus 2025",
+        "description": "Fokus pada pengembangan perangkat lunak web."
+      },
+      {
+        "school": "SMA Methodist 8 Medan",
+        "degree": "Ilmu Pengetahuan Alam (IPA)",
+        "graduated": "Juni 2018 - Juni 2021",
+        "description": "Fokus pada ilmu eksakta dan sains dasar."
+      }
+    ],
+    "work": [
+      {
+        "company": "KK AITM, Fakultas Ilmu Terapan - Universitas Telkom",
+        "title": "Web Developer Intern",
+        "years": "Mei 2025 - September 2025",
+        "description": "Membangun aplikasi QRScan Eprt dan Aplikasi Penilaian Praktikum MobPro menggunakan Laravel dan integrasi otentikasi Microsoft SSO (OAuth/Graph API)."
+      },
+      {
+        "company": "Project: StockWise",
+        "title": "Full-stack Developer",
+        "years": "Project",
+        "description": "Mengembangkan UMKM Inventory Management System dengan Laravel 10 dan MySQL, termasuk arsitektur RBAC dan Automated Testing menggunakan PHPUnit."
+      },
+      {
+        "company": "Project: Fortune",
+        "title": "Frontend Developer",
+        "years": "Project",
+        "description": "Merancang antarmuka dashboard keuangan menggunakan Tailwind CSS dengan logika JavaScript untuk kalkulasi saldo otomatis."
+      }
+    ],
+    "skills": [
+      {
+        "name": "PHP & Laravel",
+        "level": "90%"
+      },
+      {
+        "name": "HTML & CSS (Tailwind)",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "MySQL",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "React JS",
+        "level": "60%"
+      },
+      {
+        "name": "Git & GitHub",
+        "level": "80%"
+      }
+    ]
+  },
+   "portfolio":{
+        "projects": [
             {
-                "school": "Universitas Telkom",
-                "degree": "D3 Rekayasa Perangkat Lunak Aplikasi (IPK: 3,52)",
-                "graduated": "September 2022 - Agustus 2025",
-                "description" : "Fokus pada pengembangan perangkat lunak web."
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
             },
             {
-                "school": "SMA Methodist 8 Medan",
-                "degree": "Ilmu Pengetahuan Alam (IPA)",
-                "graduated": "Juni 2018 - Juni 2021",
-                "description": "Fokus pada ilmu eksakta dan sains dasar."
-            }
-        ],
-        "work": [
-            {
-                "company" : "KK AITM, Fakultas Ilmu Terapan - Universitas Telkom",
-                "title" : "Web Developer Intern",
-                "years": "Mei 2025 - September 2025",
-                "description": "Membangun aplikasi QRScan Eprt dan Aplikasi Penilaian Praktikum MobPro menggunakan Laravel dan integrasi otentikasi Microsoft SSO (OAuth/Graph API)."
-            }, 
-            {
-                "company": "Project: StockWise",
-                "title": "Full-stack Developer",
-                "years": "Project",
-                "description": "Mengembangkan UMKM Inventory Management System dengan Laravel 10 dan MySQL, termasuk arsitektur RBAC dan Automated Testing menggunakan PHPUnit."
-            },
-            {
-                "company": "Project: Fortune",
-                "title": "Frontend Developer",
-                "years": "Project",
-                "description": "Merancang antarmuka dashboard keuangan menggunakan Tailwind CSS dengan logika JavaScript untuk kalkulasi saldo otomatis."
-            }
-        ],
-        "skills": [
-            {
-                "name" : "PHP & Laravel",
-                "level": "90%"
-            },
-            {
-                "name": "HTML & CSS (Tailwind)",
-                "level": "90%"
-            },
-            {
-                "name": "JavaScript",
-                "level": "85%"
-            },
-            {
-                "name": "MySQL",
-                "level": "85%"
-            },
-            {
-                "name": "Python",
-                "level": "60%"
-            },
-            {
-                "name": "React JS",
-                "level": "60%"
-            },
-            {
-                "name": "Git & GitHub",
-                "level": "80%"
-            }
-        ]
-    }
-
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
+            ]
+        }
 }
